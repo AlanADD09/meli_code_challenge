@@ -35,26 +35,18 @@ Este servicio procesa archivos en formatos CSV y JSON Lines, interactúa con API
 2. Construye los contenedores de Docker:
 
     ```sh
-    docker-compose build
+    docker-compose up -d
     ```
 
 ## Configuración
 
 Configura las variables de entorno editando el archivo 
 
-config.env
-
- y 
-
-config.go
-
-.
+config.env y config.go
 
 ### 
 
 config.env
-
-
 
 ```env
 # Formato del archivo a procesar (csv, jsonl)
@@ -158,9 +150,7 @@ file_processor
 
     Procesa los archivos en el directorio especificado en 
 
-config.env
-
-.
+config.env.
 
     ```go
     // [file_processor/main.go](file_processor/main.go)
