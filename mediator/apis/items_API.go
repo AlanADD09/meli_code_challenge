@@ -108,6 +108,6 @@ func (api *ItemsAPI) FetchMultiData(itemIDs []SiteID) ([]ResponseData, error) {
 		// log.Printf("Batch processed: %v", batch)
 	}
 
-	log.Printf("FetchData completed with results: %v", results)
+	// log.Printf("FetchData completed with results: %v", results)
 	return results, nil
 }

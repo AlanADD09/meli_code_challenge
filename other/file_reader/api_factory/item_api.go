@@ -94,6 +94,6 @@ func (api ItemsAPI) FetchData(itemIDs []string) (map[string]interface{}, error) 
 
 	resultMap := make(map[string]interface{})
 	resultMap["data"] = results
-	log.Printf("FetchData completed with results: %v", results)
+	// log.Printf("FetchData completed with results: %v", results)
 	return resultMap, nil
 }
