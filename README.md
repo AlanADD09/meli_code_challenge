@@ -1,6 +1,3 @@
-```markdown
-
-
 # File Reader Web Service
 
 Este proyecto es un servicio que se comunica con varias APIs, recupera datos y los guarda en una base de datos.
