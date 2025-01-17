@@ -1,0 +1,12 @@
+export FILE_FORMAT=csv
+export FILE_SEPARATOR=,
+export FILE_ENCODING=utf-8
+export FILE_DIRECTORY=./pending
+export PORT=8080
+
+export FILE_FORMAT=jsonlines
+export FILE_SEPARATOR=,
+export FILE_ENCODING=utf-8
+export FILE_DIRECTORY=./pending
+export PORT=8080
+export BEARER_TOKEN=APP_USR-7334199570008453-011218-c36792a3964328ec084636bfd9deca56-1774752863
