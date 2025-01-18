@@ -4,6 +4,7 @@ Este proyecto es un servicio que se comunica con varias APIs, recupera datos y l
 
 Los diagramas de este proyecto se pueden encontrar en este enlace:
 https://drive.google.com/file/d/12TZbFSVDtpbwpe5jJVOaCnM4Of2nH64V/view?usp=sharing
+Igualmente se pueden consultar en el archivo code_challenge_diagrams.drawio.pdf en este repositorio.
 
 ## Tabla de Contenidos
 
