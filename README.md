@@ -193,10 +193,6 @@ file_processor
     }
     ```
 
-## Contribuciones
-
-Las contribuciones son bienvenidas. Por favor, envía un _pull request_ o abre un _issue_ para discutir cambios.
-
 # Desafio Teorico
 
 ## Procesos, hilos y corrutinas
