@@ -2,6 +2,9 @@
 
 Este proyecto es un servicio que se comunica con varias APIs, recupera datos y los guarda en una base de datos.
 
+Los diagramas de este proyecto se pueden encontrar en este enlace:
+https://drive.google.com/file/d/12TZbFSVDtpbwpe5jJVOaCnM4Of2nH64V/view?usp=sharing
+
 ## Tabla de Contenidos
 
 - Descripción
